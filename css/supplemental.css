@@ -1,0 +1,67 @@
+@charset "UTF- 8";
+
+.bg-light {
+	background-color: #c3b5e0 !important;
+	
+}
+.nav-link {
+	color:white !important;
+}
+.navbar-brand{
+	color:whitesmoke !important;
+}
+.c-container {
+padding-right: 1px;
+padding-left: 1px;
+}
+.c-carousel-caption {
+	color: #ffffff;
+}
+.text-container {
+max-width: 1000px;
+}
+.front-page-text {
+padding-top: 30px;
+}
+
+.control-width {
+	max-width: 1200px;
+}
+.d-block{
+	max-height: 600px ;
+}
+.card-img-top{
+	height: 230px;
+}
+.card-container {
+	padding-bottom: 60px;
+}
+
+.card-footer-ch {
+	height: 55px;
+}
+
+.footer{
+	background-color: #c3b5e0;	
+	height: 60px;
+	color: white;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+}
+ .btn-primary{
+background-color: #c3b5e0;
+color:white;
+border: none;
+}
+
+.btn-primary:hover{
+	background-color: white;
+	color:#c3b5e0 ;
+}
+ .btn-primary:visited{
+background-color: #c3b5e0 !important;
+}
+.modal-content{
+	text-align: center;
+}
