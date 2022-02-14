@@ -70,3 +70,15 @@ background-color: #c3b5e0 !important;
 	background-color: #c3b5e0;
 	box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
   }
+  .row-1{
+	  margin-left: 110px;
+  }
+  .row-2{
+	margin-left: 110px;
+}
+.card-title{
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.p-4{
+	margin-bottom:20px;
+}
