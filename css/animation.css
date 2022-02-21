@@ -1,0 +1,23 @@
+
+.bg-light {
+	background-color: #c3b5e0 !important;
+	
+}
+.nav-link {
+	color:white !important;
+}
+.navbar-brand{
+	color:whitesmoke !important;
+}
+.card-footer-ch {
+	height: 55px;
+}
+
+.footer{
+	background-color: #c3b5e0;	
+	height: 60px;
+	color: white;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+}
