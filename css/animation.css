@@ -9,9 +9,6 @@
 .navbar-brand{
 	color:whitesmoke !important;
 }
-.card-footer-ch {
-	height: 55px;
-}
 
 .footer{
 	background-color: #c3b5e0;	
@@ -20,4 +17,11 @@
 	font-size: .8rem;
 	text-align: center;
 	padding-top: 20px;
+}
+#animation_container {width: 100% !important;
+
+}
+#canvas{
+	width: 100% !important;
+	
 }
